@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8353328834564a2478a6b8630a7fb6bd, type: 3}
+  m_Name: Guard
+  m_EditorClassIdentifier: 
+  charName: Guard
+  sprite: {fileID: 7293623749340134194, guid: 3765a367fb48f9040bca18add088d6d3, type: 3}
+  hp: 20
+  speed: 100
+  atk: 1
+  atkRange: 70
+  atkDelay: 3
+  cost: 20
+  character: {fileID: 2424749545602148756, guid: 7265197099a08df4e85e12772f2a0e10, type: 3}
